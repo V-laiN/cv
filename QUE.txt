@@ -1,0 +1,61 @@
+•	10 liters of fruit juice A and 30 liters of fruit juice B are mixed to make a drink. What is the percentage of fruit juice A in the drink?
+•	Out of 480 candidates who appeared for an exam, 420 passed. What is the pass percentage?
+•	The number of visitors to a website decreased from 50,000 to 45,000. What is the percentage decrease in website visitors?
+•	A factory’s production output decreased from 1,500 units to 1,200 units. What is the percentage decrease in production?
+•	Out of 800 students, 700 passed the exam. What is the fail percentage?
+•	5 kg of flour and 20 kg of sugar are combined to make a cake mixture. What is the percentage of flour in the mixture?
+•	A box contains 500 peaches, and 40% of them are bruised. How many peaches are still good to eat?
+•	In a shipment of 800 bananas, 25% are overripe. How many bananas are still fresh?
+•	In a class of 300 students, 270 students passed the final exam. What is the pass percentage?
+•	Out of 400 candidates who appeared for an exam, 320 passed. What is the fail percentage?
+•	The population of a town decreased from 12,000 to 10,800 people. What is the percentage decrease in the town’s population?
+•	The price of a book increased from $150 to $180. What is the percentage increase in the price of the book?
+•	In a batch of 1000 products, a rejection rate of 0.05% is observed. How many defective products should be expected?
+•	A factory has a defect rate of 0.1%. If 500 items are randomly tested, how many defective items are expected?
+•	15 kg of wheat and 10 kg of rice are mixed to make a food blend. What is the percentage of rice in the blend?
+•	There are 1000 tomatoes in a harvest, and 20% are overripe. How many fresh tomatoes are there?
+•	The number of cars sold by a dealership rose from 1,200 to 1,350. What is the percentage increase in car sales?
+•	In a group of 250 candidates, 225 passed the exam. What is the fail percentage?
+•	A rejection rate of 0.1% applies to a factory. In a lot of 50,000 units, how many defective units are expected?
+•	Out of 350 grapes, 15% are spoiled. How many fresh grapes remain in the bunch?
+•	Out of 1,200 candidates who took an exam, 1,080 passed. What is the pass percentage?
+•	7 liters of oil and 28 liters of vinegar are mixed to create a solution. What is the percentage of oil in the solution?
+•	A total of 1,500 candidates appeared for a competitive exam, and 1,350 passed. What is the fail percentage?
+•	A stock price decreased from $100 to $85 per share. What is the percentage decrease in the stock price?
+•	The rejection rate of machines in a production line is 0.05%. What is the expected number of rejected machines in a sample of 2000?
+•	3% of products are defective in a batch. How many defective items would you expect in a sample of 150 items?
+•	30% of the oranges in a batch of 600 are spoiled. How many fresh oranges are there in the batch?
+•	A runner's time improved from 10.5 seconds to 9.8 seconds in a race. What is the percentage decrease in their time?
+•	A factory’s revenue decreased from $50,000 to $40,000. What is the percentage decrease in the company's revenue?
+•	12 liters of water and 8 liters of milk are mixed to prepare a beverage. What is the percentage of water in the mixture?
+•	A team of 25 players is training, and 20% of the players are injured. How many players are fit for training?
+•	A recipe for a soup calls for 200 grams of carrots and 800 grams of potatoes. What is the percentage of carrots in the soup mix?
+•	A library has 1,000 books, and 15% of them are damaged. How many books are still in good condition?
+•	In a factory, 500 machines are operating, and 4% are under maintenance. How many machines are working?
+•	In a batch of 200 cupcakes, 25% are decorated with chocolate icing. How many cupcakes have chocolate icing?
+•	A bag contains 50 marbles, and 10% of them are blue. How many blue marbles are there?
+•	A school has 300 students, and 10% of them are participating in a sports event. How many students are participating?
+•	In a garden, 400 flowers are planted, and 40% of them are roses. How many roses are in the garden?
+•	A factory produces 1,500 toys, and 2% of them are broken. How many broken toys are there?
+•	A company manufactures 2,000 light bulbs, and 3% of them are defective. How many defective light bulbs are there?
+•	In a bag of 1000 candies, 10% are sour. How many sour candies are in the bag?
+•	A shipment of 500 phones contains 2% defective units. How many defective phones are there in the shipment?
+•	In a group of 200 participants, 10% are volunteers. How many participants are volunteers?
+•	A restaurant has 100 dishes on the menu, and 15% of them are vegetarian. How many vegetarian dishes are there?
+•	A school has 1,200 students, and 25% of them are attending a field trip. How many students are on the field trip?
+•	A bottle contains 2 liters of juice, and 60% of it is apple juice. How much apple juice is there?
+•	In a football match, a team scores 40 points, and 10% of the points were scored by penalties. How many points were from penalties?
+•	A warehouse stores 3,000 items, and 5% of them are perishable. How many perishable items are there?
+•	A concert hall has 800 seats, and 12% of the seats are reserved for VIPs. How many seats are reserved for VIPs?
+•	Out of 1,000 cars in a parking lot, 18% are electric cars. How many electric cars are there?
+•	A company has 500 employees, and 10% are working from home. How many employees are working from home?
+•	A gym has 600 members, and 20% of them are attending fitness classes. How many members are attending classes?
+•	Out of 2,500 workers in a factory, 8% are on holiday. How many workers are on holiday?
+•	A zoo has 1,000 animals, and 5% of them are reptiles. How many reptiles are there?
+•	A farmer has 800 sheep, and 25% are lambs. How many lambs are there?
+•	A store has 1,500 items on sale, and 10% of them are discounted. How many discounted items are there?
+•	A group of 400 students is taking a test, and 20% are absent. How many students are present for the test?
+•	Out of 200 chairs in an auditorium, 15% are broken. How many chairs are broken?
+•	A university has 5,000 students, and 10% of them are studying part-time. How many students are studying part-time?
+•	A box of 1,000 chocolates contains 5% white chocolates. How many white chocolates are there?
+
